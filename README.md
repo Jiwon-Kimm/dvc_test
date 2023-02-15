@@ -1,2 +1,2 @@
 # dvc_test
-data version control test
+practice about data version control (DVC)
